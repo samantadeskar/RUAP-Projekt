@@ -1,0 +1,11 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+<<<<<<< HEAD
+        System.out.println("Hello from app by Samanta Deskar, index number: AI4464");
+=======
+        System.out.println("Hello from app by Samanta Deskar");
+>>>>>>> 83fe1af... Create project with printing only name
+    }
+}
